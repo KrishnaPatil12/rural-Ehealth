@@ -2,7 +2,7 @@
 ```
  In my training period organised by MSBTE I made simple rural e health website with core skill java as backend.
 ```
-### 🚀 Features
+## 🚀 Features
 - Admin login
     - Add aarogya vibhag
     - View aarogya vibhag
@@ -18,24 +18,24 @@
     - Add comment
     - Add Prescription
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Java
 - JSP/Servlet
 - MySQL (XAMPP Server)
 - Apache Tomcat
 
-## 📂 Project Structure
+##  Project Structure
 - `/src` - Java Connection classes
 - `/WebContent` - Frontend (JSP, CSS, JS, images)
 - `/WEB-INF/web.xml` - Deployment descriptor
 
-## 🧪 How to Run
+##  How to Run
 1. Clone the repository
 2. Import into Eclipse as Dynamic Web Project
 3. Install XAMPP for database connectivity
 4. Deploy on Tomcat Server
 5. Access via `http://localhost:8080/projectname`
 
-## 🙋‍♂️ Author
+##  Author
 Krishna Patil
 
